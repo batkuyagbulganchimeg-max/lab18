@@ -1,8 +1,8 @@
 package pizzashop.order;
 
-import pizzashop.logger.OrderLogger;
 import pizzashop.model.Pizza;
 import pizzashop.payment.PaymentStrategy;
+import pizzashop.logger.OrderLogger;
 
 public class Order {
 
